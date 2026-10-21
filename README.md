@@ -2,6 +2,8 @@
 
 A reproducible data science project using the public Palmer Penguins dataset.
 
+> **At a glance:** Four morphological measurements distinguish three penguin species, and a nearest-centroid classifier reaches 97.1% leave-one-out accuracy. The main limitation is that the result has not been validated on an independent population.
+
 **Project status:** Completed  
 **Code licence:** MIT  
 **Data licence:** CC0 1.0
@@ -147,3 +149,4 @@ This repository contains no passwords, API keys, credentials, personal records, 
 ## Licence
 
 The analysis code is released under the MIT License. The Palmer Penguins data are released separately under CC0 1.0.
+
