@@ -1,4 +1,4 @@
-# Identifying Penguin Species from Morphological Measurements
+﻿# Identifying Penguin Species from Morphological Measurements
 
 A reproducible data science project using the public Palmer Penguins dataset.
 
@@ -70,7 +70,7 @@ The evaluation uses a single observational dataset from the Palmer Archipelago a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/data-science-project.git
+git clone https://github.com/Treinta666/data-science-project.git
 cd data-science-project
 ```
 
@@ -124,22 +124,22 @@ Outputs written to: .../outputs and .../images
 
 ```text
 data-science-project/
-├── analysis.py
-├── data/
-│   ├── README.md
-│   └── penguins.csv
-├── images/
-│   ├── bill_scatter.png
-│   ├── confusion_matrix.png
-│   └── trait_profiles.png
-├── outputs/
-│   ├── confusion_matrix.csv
-│   ├── metrics.json
-│   └── species_summary.csv
-├── .gitignore
-├── LICENSE
-├── README.md
-└── requirements.txt
+鈹溾攢鈹€ analysis.py
+鈹溾攢鈹€ data/
+鈹?  鈹溾攢鈹€ README.md
+鈹?  鈹斺攢鈹€ penguins.csv
+鈹溾攢鈹€ images/
+鈹?  鈹溾攢鈹€ bill_scatter.png
+鈹?  鈹溾攢鈹€ confusion_matrix.png
+鈹?  鈹斺攢鈹€ trait_profiles.png
+鈹溾攢鈹€ outputs/
+鈹?  鈹溾攢鈹€ confusion_matrix.csv
+鈹?  鈹溾攢鈹€ metrics.json
+鈹?  鈹斺攢鈹€ species_summary.csv
+鈹溾攢鈹€ .gitignore
+鈹溾攢鈹€ LICENSE
+鈹溾攢鈹€ README.md
+鈹斺攢鈹€ requirements.txt
 ```
 
 ## Data safety and privacy
@@ -149,4 +149,5 @@ This repository contains no passwords, API keys, credentials, personal records, 
 ## Licence
 
 The analysis code is released under the MIT License. The Palmer Penguins data are released separately under CC0 1.0.
+
 
