@@ -1,0 +1,15 @@
+{
+  "dataset": "Palmer Penguins",
+  "license": "CC0 1.0",
+  "records_after_complete_case_filter": 342,
+  "species_count": 3,
+  "features": [
+    "bill_length_mm",
+    "bill_depth_mm",
+    "flipper_length_mm",
+    "body_mass_g"
+  ],
+  "validation": "leave-one-out nearest-centroid classifier",
+  "accuracy": 0.9708,
+  "accuracy_percent": "97.1%"
+}

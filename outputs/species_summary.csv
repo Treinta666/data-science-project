@@ -1,0 +1,4 @@
+species,bill_length_mm_mean,bill_length_mm_std,bill_length_mm_count,bill_depth_mm_mean,bill_depth_mm_std,bill_depth_mm_count,flipper_length_mm_mean,flipper_length_mm_std,flipper_length_mm_count,body_mass_g_mean,body_mass_g_std,body_mass_g_count
+Adelie,38.79,2.66,151,18.35,1.22,151,189.95,6.54,151,3700.66,458.57,151
+Chinstrap,48.83,3.34,68,18.42,1.14,68,195.82,7.13,68,3733.09,384.34,68
+Gentoo,47.5,3.08,123,14.98,0.98,123,217.19,6.48,123,5076.02,504.12,123

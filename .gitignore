@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated or local files
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+.DS_Store
+Thumbs.db
+
+# Keep reproducible outputs tracked, but ignore temporary files
+*.tmp
+*.log
